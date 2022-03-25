@@ -1,0 +1,20 @@
+{
+  "short_name": "Toastyfiles",
+  "name": "Toasty Files",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "bread.png",
+      "type": "image/png",
+      "sizes": "240x240"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#EBA300",
+  "background_color": "#2F4D7C"
+}
